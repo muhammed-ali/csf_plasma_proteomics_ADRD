@@ -62,7 +62,5 @@ The scripts should be run in the following order:
 
     prediction_models.R
 
-    survival_analysis.R
-
     pathway_and_celltype_enrichment_analysis.R
 
